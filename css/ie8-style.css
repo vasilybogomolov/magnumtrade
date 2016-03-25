@@ -1,0 +1,7 @@
+select {
+    background-image: none;
+}
+.footer-content-wrap {
+    background: url("../img/bg-footer.jpg") no-repeat center top;
+    height: 153px;
+}
